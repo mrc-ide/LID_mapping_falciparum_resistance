@@ -1,0 +1,2 @@
+# LID_mapping_falciparum_resistance
+Data accompanying accepted paper
